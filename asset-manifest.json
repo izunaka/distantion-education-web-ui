@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/distantion-education-web-ui/static/css/main.db62923b.css",
+    "main.js": "/distantion-education-web-ui/static/js/main.e732b789.js",
+    "index.html": "/distantion-education-web-ui/index.html",
+    "main.db62923b.css.map": "/distantion-education-web-ui/static/css/main.db62923b.css.map",
+    "main.e732b789.js.map": "/distantion-education-web-ui/static/js/main.e732b789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.e732b789.js"
+  ]
+}
